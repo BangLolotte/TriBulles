@@ -1,9 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <unistd.h>
-#include <time.h>
-#include <wait.h>
-#include <printf.h>
 /*************** variables*****************/
 int iNumero[10];
 int sais = 0;
